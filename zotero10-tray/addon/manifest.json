@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Zotero 10 Tray",
+  "version": "0.1.4",
+  "description": "Windows: close the main window to the notification area. Experimental build for Zotero 10.",
+  "author": "Custom build for Ziyi Wang",
+  "applications": {
+    "zotero": {
+      "id": "zotero10-tray@local.custom",
+      "strict_min_version": "10.0",
+      "strict_max_version": "10.0.*",
+      "update_url": "https://example.invalid/zotero10-tray/updates.json"
+    }
+  }
+}

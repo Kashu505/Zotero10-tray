@@ -1,1 +1,3 @@
 **Statement**: This project was generated entirely using GPT-6.1 Sol, with reference to the Zotero 7 plugin [Minimize Zotero To Tray](https://github.com/B3000Kcn/minimize-zotero-to-tray/tree/main). It has no commercial purpose and is intended solely for personal archiving and sharing.
+
+![Zotero](https://img.shields.io/badge/Zotero-10-blue)
